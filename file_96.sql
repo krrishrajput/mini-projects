@@ -1,0 +1,5 @@
+
+# 2026-08-07 03:14:07.822424
+SELECT name, COUNT(*) 
+FROM orders 
+GROUP BY name;
