@@ -8,3 +8,13 @@ int main(){
     return 0;
 }
 
+
+# 2026-09-14 17:23:00.064697
+#include<iostream>
+using namespace std;
+
+int main(){
+    cout << "Basic program running";
+    return 0;
+}
+
