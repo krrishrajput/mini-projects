@@ -2,3 +2,8 @@
 # 2026-07-22 10:51:55.595043
 SELECT * FROM users 
 WHERE age > 18;
+
+# 2026-09-16 01:19:57.771394
+SELECT name, COUNT(*) 
+FROM orders 
+GROUP BY name;
