@@ -33,3 +33,8 @@ def binary_search(arr, target):
             high = mid-1
     return -1
 
+
+# 2026-09-22 06:08:56.408833
+def is_palindrome(s):
+    return s == s[::-1]
+
